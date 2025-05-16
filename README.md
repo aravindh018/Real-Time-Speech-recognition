@@ -87,7 +87,6 @@ License
 
 This project is intended for educational and non-commercial use. Please check the individual licenses of the models and libraries used.
 
-Contact
 
 For questions or suggestions, open an issue or contact the project maintainer.
 
